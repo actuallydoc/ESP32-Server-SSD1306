@@ -1,0 +1,26 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.tsx": "typescriptreact",
+        "i2c_master.h": "c",
+        "gpio_periph.h": "c",
+        "i2c_periph.h": "c",
+        "sdkconfig.h": "c",
+        "esp_http_server.h": "c",
+        "stdint.h": "c",
+        "esp_event.h": "c",
+        "sys.h": "c",
+        "esp_system.h": "c",
+        "err.h": "c",
+        "server.h": "c",
+        "string.h": "c",
+        "driver_ssd1306.h": "c",
+        "font8x8_basic.h": "c",
+        "gpio.h": "c",
+        "i2c.h": "c",
+        "common.h": "c",
+        "stdio.h": "c"
+    },
+    "idf.adapterTargetName": "esp32",
+    "idf.portWin": "COM3"
+}
