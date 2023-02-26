@@ -15,7 +15,6 @@
 
 void app_main()
 {
-    bool i2c_init = false;
     // Pins to output
     esp_err_t sec_pin_status = gpio_set_direction(GPIO_NUM_32, GPIO_MODE_OUTPUT);
     if (sec_pin_status != ESP_OK)
